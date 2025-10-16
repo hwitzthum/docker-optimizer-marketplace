@@ -1,0 +1,15 @@
+{
+  "name": "docker-optimizer-marketplace",
+  "description": "Marketplace for Docker optimization tools",
+  "owner": {
+    "name": "Harry Witzthum",
+    "url": "https://github.com/hwitzthum"
+  },
+  "plugins": [
+    {
+      "name": "docker-optimizer",
+      "source": "./docker-optimizer",
+      "description": "Generate and optimize Dockerfiles and Docker Compose files for Python applications"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "docker-optimizer",
+  "description": "Generate and optimize Dockerfiles and Docker Compose files for Python applications",
+  "version": "1.0.0",
+  "author": {
+    "name": "Harry Witzthum",
+    "url": "https://github.com/hwitzthum"
+  }
+}
